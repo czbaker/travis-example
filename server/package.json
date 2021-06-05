@@ -6,6 +6,7 @@
   "author": "Zach Baker <zach@bearmail.net>",
   "license": "MIT",
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
     "@types/passport": "^1.0.6",
     "@types/passport-facebook": "^2.1.10",
     "@types/passport-google-oauth": "^1.0.41",
