@@ -1,0 +1,8 @@
+{
+  "name": "travis-example-server",
+  "version": "1.0.0",
+  "description": "Example of full-stack for Travis.",
+  "main": "index.js",
+  "author": "Zach Baker <zach@bearmail.net>",
+  "license": "MIT"
+}
